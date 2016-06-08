@@ -1,0 +1,9 @@
+[submodule "visualize-git"]
+	path = visualize-git
+	url = https://github.com/git-school/visualizing-git.git
+[submodule "explore-git"]
+	path = explore-git
+	url = https://github.com/git-school/exploring-git.git
+[submodule "install-git"]
+	path = install-git
+	url = https://github.com/git-school/installing-git.git
