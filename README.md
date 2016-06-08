@@ -12,6 +12,8 @@ Clone this repository using the `--recursive` flag so that the submodules are in
 git clone --recursive https://github.com/git-school/workshop-setup.git
 ```
 
+Once cloned correctly, you should have additional subfolders inside the clone repsitories, and those subfolders should *not* be empty. If they are, run the command listed under "Update the Repository," below.
+
 Update the Repository
 ---------------------
 
