@@ -1,10 +1,10 @@
 Git Workshop Setup
 ==================
 
-Hello! To prepare for the workshop, we ask that you please do the following:
+Hello! To prepare for the workshop, we ask that you please do the following two things:
 
-Get the Materials
------------------
+1. Get the Materials
+--------------------
 
 ### Clone the Repository
 
@@ -24,7 +24,7 @@ A day or two before the workshop, please take a moment to pull down the latest c
 git submodule update --init --recursive
 ```
 
-Get the Software
-----------------
+2. Get the Software
+-------------------
 
 Please make sure you have an appropriate installation of Git installed! Follow the instructions in [the Installing Git repository](https://github.com/git-school/installing-git) for more detailed instructions.
