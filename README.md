@@ -26,5 +26,11 @@ Once cloned correctly, you should have additional subfolders inside the clone re
 A day or two before the workshop, please take a moment to pull down the latest changes so everything is up to date. From inside the cloned repository, run:
 
 ```
+git pull
+```
+
+and then
+
+```
 git submodule update --init --recursive
 ```
