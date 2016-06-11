@@ -7,3 +7,6 @@
 [submodule "install-git"]
 	path = install-git
 	url = https://github.com/git-school/installing-git.git
+[submodule "workshop-reference"]
+	path = workshop-reference
+	url = https://github.com/BinaryMuse/workshop-reference.git
