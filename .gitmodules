@@ -7,3 +7,9 @@
 [submodule "install-git"]
 	path = install-git
 	url = https://github.com/git-school/installing-git.git
+[submodule "workshop-reference"]
+	path = workshop-reference
+	url = https://github.com/git-school/workshop-reference.git
+[submodule "three-trees-of-git"]
+	path = three-trees-of-git
+	url = https://github.com/git-school/three-trees-of-git.git
