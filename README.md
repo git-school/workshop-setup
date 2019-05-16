@@ -3,13 +3,11 @@ Git Workshop Setup
 
 Hello! To prepare for the workshop, we ask that you please do the following two things:
 
-1. Get the Software
--------------------
+## 1. Get the Software
 
 Please make sure you have an appropriate installation of Git installed! You should be able to access it from your computer's command line application. Follow the instructions in [the Installing Git repository](https://github.com/git-school/installing-git) for more detailed instructions.
 
-2. Get the Materials
---------------------
+## 2. Get the Materials
 
 ### Clone the Repository
 
